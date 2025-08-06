@@ -1,6 +1,7 @@
 ## Thinking in Hoses and Wires, Not Bolted Connections: Protocol-Driven Development
 
-**A rediscovery of message-passing systems, inspired by Smalltalk and real-world application design.**
+***A rediscovery of message-passing systems, inspired by Smalltalk and the struggles of real-world application design.***
+
 
 Most systems are built like cars: rigid, bolted together, and prone to break when you change a part. But what if we built them like hydraulic machines — with flexible connections and interchangeable components?
 
@@ -166,6 +167,8 @@ If you find this idea interesting or useful:
 - Open an [Issue](https://github.com/MickDuprez/Protocol-Driven-Development/issues) to ask a question or propose a clarification
 - Submit a Pull Request to refine phrasing or examples
 - Star the repo to bookmark and follow its evolution
+
+[Discuss on Hacker News](https://news.ycombinator.com/)
 
 Thanks for reading!
 
