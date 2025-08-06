@@ -170,4 +170,5 @@ If you find this idea interesting or useful:
 Thanks for reading!
 
 Copyright (c) August, 2025 Mick Duprez
+
 Licensed under the [MIT License](LICENSE)
