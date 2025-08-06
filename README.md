@@ -168,7 +168,7 @@ If you find this idea interesting or useful:
 - Submit a Pull Request to refine phrasing or examples
 - Star the repo to bookmark and follow its evolution
 
-[Discuss on Hacker News](https://news.ycombinator.com/)
+[Discuss on Hacker News](https://news.ycombinator.com/item?id=44812326)
 
 Thanks for reading!
 
