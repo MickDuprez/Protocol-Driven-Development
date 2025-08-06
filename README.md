@@ -1,6 +1,6 @@
 ## Thinking in Hoses and Wires, Not Bolted Connections: Protocol-Driven Development
 
-**A concise design philosophy for building flexible, message-oriented systems based on protocols.**
+**A rediscovery of message-passing systems, inspired by Smalltalk and real-world application design.**
 
 Most systems are built like cars: rigid, bolted together, and prone to break when you change a part. But what if we built them like hydraulic machines — with flexible connections and interchangeable components?
 
