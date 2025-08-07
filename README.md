@@ -164,7 +164,7 @@ Gary Bernhardt — Boundaries (talk)
 ### 💬 Contribute or Discuss
 
 If you find this idea interesting or useful:
-- Open an [Issue](https://github.com/MickDuprez/Protocol-Driven-Development/issues) to ask a question or propose a clarification
+- Open an [Discussion](https://github.com/MickDuprez/Protocol-Driven-Development/discussions) to ask a question or propose a clarification
 - Submit a Pull Request to refine phrasing or examples
 - Star the repo to bookmark and follow its evolution
 
