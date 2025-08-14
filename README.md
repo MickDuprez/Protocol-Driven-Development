@@ -113,7 +113,7 @@ The above code looks pretty much idiomatic and familiar, but it's 'composable' n
 
 Sometimes an image helps:
 
-![PDD Vehicle Analogy](/PDD-vehicle.png)
+
 
 ## This Isn’t New — Just Rediscovered
 Much of this thinking by Alan Kay et al. was present in Smalltalk and systems like ARPANET. Message-passing, autonomy, and protocol-based coordination was the crux of the vision. Smalltalk was never the end — it was the prototype.
