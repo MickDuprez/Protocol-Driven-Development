@@ -111,6 +111,8 @@ manager.Rename(1, "New Name")
 The behavior is plugged in via protocol — not dictated by framework glue.
 The above code looks pretty much idiomatic and familiar, but it's 'composable' not complect, and very test-able.
 
+Sometimes an image helps:
+
 ![PDD Vehicle Analogy](/PDD-vehicle.png)
 
 ## This Isn’t New — Just Rediscovered
